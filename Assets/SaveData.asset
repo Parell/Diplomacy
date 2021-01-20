@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ab655f56bdf2354ab3c9ba7fd0b51b8, type: 3}
+  m_Name: SaveData
+  m_EditorClassIdentifier: 
+  countryName: 
+  points: 20
+  pointsPerTurn: 0
+  turn: 0
+  health: 0
+  unemployment: 0
+  crime: 0
+  education: 0
+  poverty: 0
+  population: 0
+  income: 0
+  expenditure: 0
+  debt: 0
+  emissions: 0
+  cleanEnergy: 0
+  agricultureUsage: 0
+  agricultureProcuction: 0
+  agricultureEfficiency: 0
+  energyUsage: 0
+  energyProcuction: 0
+  energyEfficiency: 0
+  waterUsage: 0
+  waterProcuction: 0
+  waterEfficiency: 0
+  agricultureSubsidies: 0
+  verticalFarmSubsidies: 0
+  cityFarms: 0
+  carbonCaptureAndStorage: 0
+  ecoHomeRegulations: 0
+  greenElectronicsSubsidies: 0
+  spaceProgram: 0
+  trafficCongestion: 0
+  railUsage: 0
+  carUsage: 0
+  busUsage: 0
+  bicycleUsage: 0
+  planeUsage: 0
+  biofuelSubsidies: 0
+  busSubsidies: 1
+  bicycleSubsidies: 0
+  electricCarSubsidies: 0
+  driverlessCarLaws: 0
